@@ -1,4 +1,4 @@
-# Diciplina
+# Conflicto V2.2
 INF-0991 – Controle de Versão
 # Aluno
 Byron Alejandro Acuña Acurio
