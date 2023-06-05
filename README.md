@@ -4,5 +4,5 @@ INF-0991 – Controle de Versão
 Byron Alejandro Acuña Acurio
 # INF0991
 TRABALHO 2
-# V3.2 Criação de conflito
-# V3.1
+# V3.0
+# V4.0
